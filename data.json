@@ -1,0 +1,22 @@
+[
+   {
+      "name":"Mukesh",
+      "phone":"14082037236",
+      "kid":"Kush",
+      "spouse":"Shikha"
+   },
+   {
+      "name":"Shikha",
+      "phone":"14084800853",
+      "kid":"Mahika",
+      "spouse":"Mukesh"
+   },
+   {
+
+      "name":"Mahika",
+      "phone":"19253257070",
+      "kid":"Kush",
+      "spouse":"Kush"
+
+   }
+]
